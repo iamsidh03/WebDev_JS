@@ -1,0 +1,8 @@
+//to install react commands are:
+    cd--> to go inside the folder
+    npm create vite@latest 
+    select React
+    select Javascript
+    npm install
+    npm run dev --> to run the created App
+
